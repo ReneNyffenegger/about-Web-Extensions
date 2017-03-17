@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Name (as found in manifest.json)",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "id": "id@mozilla.org"
+    }
+  },
+
+  "browser_action": {
+    "default_title": "browser_action -> default_title"
+  }
+}
